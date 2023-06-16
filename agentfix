@@ -1,0 +1,1 @@
+use model='gpt-3.5-turbo' instead of chat_model='gpt-3.5-turbo'
